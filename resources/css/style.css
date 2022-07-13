@@ -30,3 +30,11 @@ body {
     color: aquamarine;
     font-size: 16px;
 }
+
+/*COPYRIGHT TAG*/
+.copyright--tag {
+    color: gray;
+    font-size: 21px;
+    font-weight: normal;
+    text-align: right;
+}
